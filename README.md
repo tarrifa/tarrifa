@@ -1,7 +1,7 @@
 ### Hello! I´m Rafael 👋
 
-- 🔭 I’m currently working on Python AI and Machine Learning 🤖
-- 🌱 I’m currently learning Mediapipe and TensorFlow 
+- 🎓 I’m currently working on Python AI and Machine Learning 🤖
+- 🗒️ I’m currently learning Mediapipe and TensorFlow 
 - ⚡ Fun fact: I´m also an aerialist and an artist 🎨
 
 
@@ -9,7 +9,7 @@
 
 Network | Contact
 ------------ | -------------
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | 3123945094
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | +57 3123945094
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | esra.tarrifa@gmail.com
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | esra.tarrifa@outlook.com
 
