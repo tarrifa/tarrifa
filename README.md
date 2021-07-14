@@ -1,7 +1,7 @@
-### Hello! I´m Rafael 👋
+### Hello! I'm Rafael 👋
 
-- 🎓 I’m currently working on Python AI and Machine Learning 🤖
-- 🗒️ I’m currently learning Mediapipe and TensorFlow 
+- 🎓 I'm currently working on Python AI and Machine Learning 🤖
+- 🗒️ I'm currently learning Mediapipe and TensorFlow 
 - ⚡ Fun fact: I´m also an aerialist and an artist 🎨
 
 
