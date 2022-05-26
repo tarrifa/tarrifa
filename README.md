@@ -1,7 +1,7 @@
 ### Hello! I'm Rafael 👋
 
-- 🎓 I'm currently working on Python AI and Machine Learning 🤖
-- 🗒️ I'm currently learning Mediapipe and TensorFlow 
+- 🎓 I'm currently working on Python Web DevelopmnetAI 🤖
+- 🗒️ I'm currently learning Three.js and TensorFlow
 - ⚡ Fun fact: I´m also an aerialist and an artist 🎨
 
 
@@ -19,7 +19,7 @@ Network | Contact
 Network | Contact
 ------------ | -------------
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | rafael_tarrifa
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | Esteban Rafael Tarrifa
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | Rafael Tarrifa
 
 ## 💻 Languages
 .|.
