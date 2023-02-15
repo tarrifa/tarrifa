@@ -1,7 +1,7 @@
 ### Hello! I'm Rafael 👋
 
-- 🎓 I'm currently working on Python Web DevelopmnetAI 🤖
-- 🗒️ I'm currently learning Three.js and TensorFlow
+- 🎓 I'm currently working on React JS Web Development and Mobile Development with React Native🤖
+- 🗒️ I'm currently learning Web Services
 - ⚡ Fun fact: I´m also an aerialist and an artist 🎨
 
 
